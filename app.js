@@ -6,7 +6,8 @@ const connect = require('./DB/connect');
 const PORT = process.env.PORT || 8080;
 const helmet = require('helmet');
 const Login_Routes = require('./routes/AuthRoute');
-const otpDbConnection = require('./DB/otpConnect');
+require('./DB/otpConnect');
+const cors = require('cors');
 
 app.get("/", (req, res) => {
     res.send("I am live from backend");
@@ -14,7 +15,7 @@ app.get("/", (req, res) => {
 app.use(helmet());
 app.use(express.json());
 app.use('/api/auth', Login_Routes);
-
+app.use(cors());
 
 const start = async () => {
     try {
