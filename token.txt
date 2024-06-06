@@ -1,0 +1,31 @@
+{
+  "message": "User created successfully",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3MTc2NzE1MTQsImV4cCI6MTcxNzc1NzkxNH0._XV2169WL7s5zjSXmfL6aSsvPi9slbwud3BxSnn98c0"
+}	
+
+
+{
+  "message": "User created successfully",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3MTc2NzE2ODcsImV4cCI6MTcxNzc1ODA4N30.0Tax06lHaE0f_3ePDx98Ld9gpNpNdfoBFhasAs5konI"
+}
+
+{
+  "message": "User created successfully",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImIwNDJmZTE3LWQ4NzEtNGYxOC05MWJhLTRjZjUzM2RlZTc3YyIsImlhdCI6MTcxNzY3MzI4NiwiZXhwIjoxNzE3NzU5Njg2fQ.CakWyOV9UkIfkzDVe_Ot3W7O1WPUXhOgQp0l8pMlEug"
+}
+
+{
+  "message": "User created successfully",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY2MjI5OTg3LWJjNDctNDA3Ni04OTQ4LWUzNWUwNGI3OTIxZiIsImlhdCI6MTcxNzY3NDY0MywiZXhwIjoxNzE3NzYxMDQzfQ.3UgkT2OOmJjX26b-Py84K1aZ9mrglVN3GDd8rMzc6Zk"
+}
+
+{
+  "message": "User created successfully",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjBjYjQ3NTYzLTcxOGYtNDMwNC05M2M0LTI2YTkxODQ3ZTk3MSIsImlhdCI6MTcxNzY3NTE5OCwiZXhwIjoxNzE3NzYxNTk4fQ.eXrVfyBqmDCtc0gTcwhXq7M0GXduE43lbZjPe4efGAE"
+}
+
+
+{
+  "msg": "Created new user yash",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImM1YzM1MWZlLTE5NjgtNGU1ZC1iYzIyLTcyNGU0NTE1OTFiNSIsImlhdCI6MTcxNzY3NzE5NCwiZXhwIjoxNzIwMjY5MTk0fQ.i_suXbRgrMESLl_v0N7sWURIrwupl7QWCgfUvZgnL0A"
+}
