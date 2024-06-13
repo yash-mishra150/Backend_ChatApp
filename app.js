@@ -30,6 +30,7 @@ app.get("/", (req, res) => {
 });
 app.use(helmet());
 app.use(express.json());
+app.set('trust proxy', 1,2,3);
 app.use('/api/auth', Login_Routes);
 app.use('/api/messages', Message_Route);
 app.use(cors());
