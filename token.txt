@@ -1,31 +1,13 @@
 {
-  "message": "User created successfully",
-  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3MTc2NzE1MTQsImV4cCI6MTcxNzc1NzkxNH0._XV2169WL7s5zjSXmfL6aSsvPi9slbwud3BxSnn98c0"
-}	
-
-
-{
-  "message": "User created successfully",
-  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3MTc2NzE2ODcsImV4cCI6MTcxNzc1ODA4N30.0Tax06lHaE0f_3ePDx98Ld9gpNpNdfoBFhasAs5konI"
-}
-
-{
-  "message": "User created successfully",
-  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImIwNDJmZTE3LWQ4NzEtNGYxOC05MWJhLTRjZjUzM2RlZTc3YyIsImlhdCI6MTcxNzY3MzI4NiwiZXhwIjoxNzE3NzU5Njg2fQ.CakWyOV9UkIfkzDVe_Ot3W7O1WPUXhOgQp0l8pMlEug"
-}
-
-{
-  "message": "User created successfully",
-  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY2MjI5OTg3LWJjNDctNDA3Ni04OTQ4LWUzNWUwNGI3OTIxZiIsImlhdCI6MTcxNzY3NDY0MywiZXhwIjoxNzE3NzYxMDQzfQ.3UgkT2OOmJjX26b-Py84K1aZ9mrglVN3GDd8rMzc6Zk"
-}
-
-{
-  "message": "User created successfully",
-  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjBjYjQ3NTYzLTcxOGYtNDMwNC05M2M0LTI2YTkxODQ3ZTk3MSIsImlhdCI6MTcxNzY3NTE5OCwiZXhwIjoxNzE3NzYxNTk4fQ.eXrVfyBqmDCtc0gTcwhXq7M0GXduE43lbZjPe4efGAE"
+  "msg": "Created new user yash mishra",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjNjNDIxNmFmLTI5OWUtNGZhYi1hN2ZhLWZiYzI2MGQ2NmIyMiIsImlhdCI6MTcxNzg2MDI2MCwiZXhwIjoxNzIwNDUyMjYwfQ.Rv9h60C7Uk11d3jbANJZ7zJfR91aQpZMxH-lhjfEjk8"
 }
 
 
 {
-  "msg": "Created new user yash",
-  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImM1YzM1MWZlLTE5NjgtNGU1ZC1iYzIyLTcyNGU0NTE1OTFiNSIsImlhdCI6MTcxNzY3NzE5NCwiZXhwIjoxNzIwMjY5MTk0fQ.i_suXbRgrMESLl_v0N7sWURIrwupl7QWCgfUvZgnL0A"
+  "text": "hello, this is a test message",
+  "user": "3c4216af-299e-4fab-a7fa-fbc260d66b22",
+  "_id": "66647d180d97529a07d00472",
+  "timestamp": "2024-06-08T15:47:36.857Z",
+  "__v": 0
 }

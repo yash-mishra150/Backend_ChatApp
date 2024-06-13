@@ -79,6 +79,7 @@ const LoginUser = asyncHandler(async (req, res) => {
     if (match) {
       res.json({
         msg: 'Login Successful',
+        id: user._id,
         token: generateToken(user._id),
       });
     } else {
